@@ -11,6 +11,8 @@ It's a gray day in Berlin, but my plants are..
 
 The [Wikipedia article][wh] for Habanero says that..
 
+The [etymology][er] of "ripe" says:
+
 > Old English ripe "ready for reaping, fit for eating, mature,"
 
 * foo
