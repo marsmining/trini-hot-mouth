@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   missing that Caribbean heat, Soraya began growing her own selection of peppers
   and experimenting until she found that special heat.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://trinihotmouth.com" # the base hostname & protocol for your site
+url: "http://trinihotmouth.com"
 twitter_username: Sweetraya75
 
 # Build settings
