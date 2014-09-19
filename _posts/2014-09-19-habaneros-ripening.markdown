@@ -21,5 +21,21 @@ The [etymology][er] of "ripe" says:
 
 ![01](/img/habanero-ripening-01.jpg)
 
+# Heading One
+
+blah
+
+## Heading Two
+
+pooh
+
+### H3
+
+bam
+
+![02](/img/habanero-ripening-02.jpg)
+
+In closing..
+
 [wh]: http://en.wikipedia.org/wiki/Habanero
 [er]: http://www.etymonline.com/index.php?term=ripe
