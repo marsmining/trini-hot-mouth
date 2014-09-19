@@ -35,6 +35,10 @@ bam
 
 ![02](/img/habanero-ripening-02.jpg)
 
+Example of __bold text__ and _italics_ as well!
+
+![03](/img/habanero-ripening-03.jpg)
+
 In closing..
 
 [wh]: http://en.wikipedia.org/wiki/Habanero
